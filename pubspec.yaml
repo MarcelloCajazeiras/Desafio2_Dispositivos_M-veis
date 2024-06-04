@@ -1,0 +1,118 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/background_1_x2.svg
+  - assets/vectors/image_1_x2.svg
+  - assets/vectors/notch_1_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/mobile_signal_3_x2.svg
+  - assets/vectors/vector_41_x2.svg
+  - assets/vectors/background_x2.svg
+  - assets/vectors/iphone_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/group_x2.svg
+  - assets/images/diego.png
+  - assets/vectors/whatsapp_5_x2.svg
+  - assets/vectors/ellipse_2_x2.svg
+  - assets/vectors/boto_1_x2.svg
+  - assets/vectors/iphone_3_x2.svg
+  - assets/vectors/dar_aulas_x2.svg
+  - assets/vectors/vector_38_x2.svg
+  - assets/vectors/vector_42_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/iphone_1_x2.svg
+  - assets/images/diego.png
+  - assets/vectors/vector_22_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/ellipse_x2.svg
+  - assets/vectors/notch_x2.svg
+  - assets/vectors/vector_23_x2.svg
+  - assets/vectors/vector_24_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_20_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/mobile_signal_2_x2.svg
+  - assets/vectors/group_2_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/image_x2.svg
+  - assets/vectors/vector_36_x2.svg
+  - assets/vectors/whatsapp_3_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/voltar_1_x2.svg
+  - assets/vectors/vector_40_x2.svg
+  - assets/images/mayk.png
+  - assets/images/diego.png
+  - assets/vectors/vector_17_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_31_x2.svg
+  - assets/vectors/vector_29_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/whatsapp_2_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/vector_35_x2.svg
+  - assets/vectors/whatsapp_1_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/voltar_2_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/iphone_2_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/ellipse_1_x2.svg
+  - assets/vectors/ellipse_4_x2.svg
+  - assets/images/euzasso.jpeg
+  - assets/vectors/boto_x2.svg
+  - assets/vectors/vector_19_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/vector_34_x2.svg
+  - assets/vectors/mobile_signal_x2.svg
+  - assets/vectors/vector_28_x2.svg
+  - assets/vectors/whatsapp_4_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/image_3_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_39_x2.svg
+  - assets/vectors/notch_2_x2.svg
+  - assets/vectors/vector_33_x2.svg
+  - assets/vectors/voltar_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/vector_16_x2.svg
+  - assets/vectors/autoflow_687_x2.svg
+  - assets/vectors/autoflow_685_x2.svg
+  - assets/vectors/autoflow_664_x2.svg
+  - assets/vectors/autoflow_684_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/autoflow_644_x2.svg
+  - assets/vectors/autoflow_648_x2.svg
+  - assets/vectors/autoflow_672_x2.svg
+  - assets/images/diego.png
+  - assets/vectors/ellipse_3_x2.svg
+  - assets/vectors/vector_26_x2.svg
+  - assets/vectors/whatsapp_x2.svg
+  - assets/vectors/vector_18_x2.svg
+
